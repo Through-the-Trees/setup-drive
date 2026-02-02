@@ -1,12 +1,11 @@
 # setup-drive
 Local setup and action files to run from USB for desktop and laptop refurbishing.
 
-# Documentation
-See [Google Drive](https://drive.google.com/drive/folders/1d_S3faZrwhpUiTw1B-DxLmTf3okOl1hV?usp=sharing) for up-to-date refurbishing documentation.
-Go [here](https://github.com/Through-the-Trees/setup-scripts) to see a more technical breakdown of what each script accomplishes.
-
-# Updating
+# Updating Local Script Drive
 You must first install git on your machine.
+
+# Documentation
+See [Google Drive](https://drive.google.com/drive/folders/1d_S3faZrwhpUiTw1B-DxLmTf3okOl1hV?usp=sharing) for up-to-date refurbishing documentation. Go [here](https://github.com/Through-the-Trees/setup-scripts) to see a more technical breakdown of what each script accomplishes.
 
 ## Windows
 ### /Windows/setup.cmd
