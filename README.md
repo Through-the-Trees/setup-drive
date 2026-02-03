@@ -13,7 +13,7 @@ Runs [setup-scripts/windows/setup.ps1](https://github.com/Through-the-Trees/setu
 ### /Windows/serial_number.cmd
 Displays the device serial number stored in the firmware
 ### /autounattend.xml
-Intended to be placed in the root of a Windows install drive. Will automatically run [setup-scripts/windows/setup.ps1](https://github.com/Through-the-Trees/setup-scripts/blob/main/windows/setup.ps1). Generated using utility created by [Christoph Schneegans](https://schneegans.de/christoph/) and modified for our purposes.
+Intended to be placed in the root of a Windows install drive. Will automatically run [setup-scripts/windows/setup.ps1](https://github.com/Through-the-Trees/setup-scripts/blob/main/windows/setup.ps1). Generated using [utility](https://github.com/cschneegans/unattend-generator) created by [Christoph Schneegans](https://schneegans.de/christoph/) and modified for our purposes.
 
 ## Linux (Zorin OS)
 ### /Linux/setup.sh
